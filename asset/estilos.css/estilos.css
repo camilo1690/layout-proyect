@@ -1,0 +1,264 @@
+* {
+	padding: 0 ;
+	margin: 0;
+}
+body{
+	margin: auto;
+	width: 1200px;
+}
+
+.header{
+	padding:0px 160px;
+	height: 100%;
+	min-height: 450px;
+    background-color: #6C9283;
+}
+
+.header-top {
+    font-family: sans-serif;
+    height: 50px;
+    padding: 50px 0px; 
+    width: 100%;
+}
+.header-top{
+	text-decoration: underline;
+}
+
+
+
+ul, li{
+	list-style: none;
+}
+
+#nav{
+	display: block;
+	float: right;
+	padding: 0px;
+	height: 70px;
+	line-height: 70px;
+
+}
+.nav li{
+	display: inline-block;
+	padding: 10px 15px;
+}
+
+.nav li a{
+	color: white;
+	text-decoration: none;
+	font-size: 17.4px;
+	
+}
+
+.logo{
+	float: left;
+	padding: 0px;
+	width: 30%;
+}
+ 
+.hr{
+	align-items:left;
+	size:10;
+	width:100%;
+	color: #FFFFFF;
+}
+
+.header-lower{
+	font-family: sans-serif;
+	padding:;
+}
+
+.img2{
+	float: left;
+	padding-left: 110px; 
+}
+
+.text{
+	width: 50%;
+	float: right;
+	font-family: sans-serif;
+}
+
+.sub-texto1{
+	color: white;
+}
+
+.aside{
+	min-height: 110px;
+	background: #444644;
+}
+
+.title{
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+    padding-top: 23px;
+}
+
+.title-principal{
+	font-size: 30px;
+	padding-bottom: 7px;
+}
+
+.sub-title{
+	font-size: 15px;
+}
+
+.file{
+	padding: 0px 140px;
+    min-height: 390px;
+    position: relative;
+}
+
+.col-25{
+	width: 25%;
+	margin: auto;
+	float: left;
+}
+
+.definition{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 12px;
+	padding-top: 100px;
+}
+
+.definition img{
+	width: 90px;
+	padding-bottom: 50px;
+}
+
+.definition .title1{
+	font-size: 20px;
+	padding-bottom: 15px;
+} 
+
+#article1{
+	min-height: 390px;
+	background-color: #F5FAF9;
+	border-right: 1px solid;
+}
+
+#article1 .file1{
+	height: 170px;
+}
+
+#article1 .file1 .text-pp{
+	font-family: sans-serif;
+	text-align: center;
+	padding-top: 60px;
+	color: #585858;
+}
+
+#article1 .file1 .text-pp .text1{
+    font-size: 33px;
+    padding-bottom: 10px;
+}
+
+#article1 .file1 .text-pp .text2{
+	font-size: 15px;
+}
+
+#article1 .file2{
+	height: 220px;
+	padding: 0px 175px;
+}
+
+.file2 .img-casas{
+	position: absolute;
+	float: left;
+	margin: auto;
+}
+
+.file2 .img-casas img{
+	width: 195px;
+	height: 155px;
+	padding-right: 15px;
+	text-align: center;
+}
+
+
+.file3{
+	min-height: 420px;
+	padding: 0px 170px;
+	position: relative;
+}
+
+.col-30{
+	width: 25%;
+	margin: auto;
+	float: left;
+}
+
+.definition2{
+	text-align: center;
+	font-family: sans-serif;
+	color: #585858;
+	padding-top: 55px; 
+}
+
+.definition2 img{
+	width: 190px;
+	height: 190px;
+	border-radius: 95px;
+	margin-bottom: 20px;
+}
+
+.definition2 .title1{
+	font-size: 19px;
+	padding-bottom: 19px;
+}
+
+.definition2 .p{
+	font-size: 12px;
+}
+
+.video{
+	min-height: 343px;
+	background-color: #444644;
+	position: relative;
+}
+
+
+#video{
+	width: 50%;
+	float: left;
+	font-family: sans-serif;
+	color: white;
+}
+
+#property{
+	width: 425px;
+	height: 225px;
+	float: right;
+	padding: 60px 10px;
+}
+
+.text1-video{
+	padding-top: 74px;
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-size: 27px;
+}
+
+.p2{
+	padding-top: 25px;
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+#body{
+	border: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
